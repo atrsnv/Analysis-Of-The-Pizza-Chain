@@ -147,6 +147,11 @@ GROUP BY
 	 pizza_name
 ORDER BY 'Количество продаж' DESC;
 ```
+**Результат**:
+
+![image](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/assets/142921009/8754b03d-383c-4d0f-9875-1e8beed200dd)
+
+
 * Топ-3 аутсайдера продаж:
 
 ```SQL
@@ -159,5 +164,10 @@ GROUP BY
 	 pizza_name
 ORDER BY 'Количество продаж' ASC;
 ```
+
+**Результат**:
+
+![image](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/assets/142921009/9b347795-1370-41c0-975f-fd6dd4bd77c2)
+
 
 
