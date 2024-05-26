@@ -172,5 +172,5 @@ ORDER BY 'Количество продаж' ASC;
 
 
 
-#### После результатов, приведенных выше я сделаю [дэшборд в Excel](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/tree/main/dashboard%26visualisation), который будет отражать основные показатели продаж бизнеса:
+#### После результатов, приведенных выше я сделаю [дэшборд в Excel](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/tree/main/dashboard%26visualisation), который будет отражать основные показатели продаж бизнеса.
 
