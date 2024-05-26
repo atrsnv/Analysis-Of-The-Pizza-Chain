@@ -1,4 +1,4 @@
-![image](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/assets/142921009/1862ba45-4666-4832-aad8-848107105789)# Analysis-Of-The-Pizza-Chain
+# Analysis-Of-The-Pizza-Chain
 
 ![image](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/assets/142921009/fa783a6d-b2e0-4dd2-8526-0ccad7d3d068)
 
