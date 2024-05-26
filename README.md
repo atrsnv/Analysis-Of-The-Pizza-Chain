@@ -133,8 +133,31 @@ ORDER BY
 
 ![image](https://github.com/rezzstra/Analysis-Of-The-Pizza-Chain/assets/142921009/ebcab8db-dbc3-4820-9cec-24b7bface56c)
 
+### 8. Какие виды продукта продаются лучше, а какие хуже?
 
+* Топ-3 продаж:
 
+```SQL
+SELECT
+	TOP 3 pizza_name AS 'Название пиццы',
+	SUM(quantity) AS 'Количество продаж'
+FROM 
+	pizza
+GROUP BY
+	 pizza_name
+ORDER BY 'Количество продаж' DESC;
+```
+* Топ-3 аутсайдера продаж:
 
+```SQL
+SELECT
+	TOP 3 pizza_name AS 'Название пиццы',
+	SUM(quantity) AS 'Количество продаж'
+FROM 
+	pizza
+GROUP BY
+	 pizza_name
+ORDER BY 'Количество продаж' ASC;
+```
 
 
